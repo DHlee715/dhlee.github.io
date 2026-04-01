@@ -1,0 +1,51 @@
+#album-header 
+{
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #FF4500;
+  color: white;
+}   
+
+.lyrics-section
+{
+font-style: italic; 
+text-align: center;
+color : #FF4500;
+margin-bottom: 20px;
+
+}
+
+
+.track-section
+{
+
+    text-align: center;
+
+
+}
+
+
+
+#track-table{
+  text-align: center;
+
+
+  background-color: #FF4500;
+  color: white;
+  border: 20px solid #ffd3c3;
+}
+
+
+.info-section
+{
+
+
+background-color: #ffa787;
+color: aliceblue;
+text-align: center;
+margin-bottom: 20px;
+}
+
+
+
